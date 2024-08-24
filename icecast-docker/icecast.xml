@@ -145,7 +145,7 @@
 
     <mount>
         <mount-name>/stream</mount-name>
-        <password>stark42</password> <!-- Password para o BUTT se conectar -->
+        <password>dasGXZ24ievq</password> <!-- Password para o BUTT se conectar -->
         <max-listeners>100</max-listeners> <!-- Defina o número máximo de ouvintes -->
         <public>1</public> <!-- Tornar a transmissão pública -->
     </mount>
